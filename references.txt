@@ -1,0 +1,6 @@
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physicochemical properties.In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+入门：干型、半干、半甜和甜型葡萄酒有何区别？搜狐网. https://www.sohu.com/a/116275922_503809
+葡萄酒中的化学成份：挥发酸. http://blog.sina.com.cn/s/blog_3f307c4a0101h0nh.html
+葡萄酒的酒精度高好还是低好？http://www.wine-world.com/culture/zt/20141203092014626
+认真看待葡萄酒酒精度，它并不是选葡萄酒的标准. http://www.tycxsy.com/index.php?p=news_show&id=188&lanmu=1
+你真的了解葡萄酒中的酸吗？ http://www.wine-world.com/culture/pj/20160108153636965
